@@ -6,7 +6,7 @@ function Header() {
   return (
     <header>
       <nav>
-        <Link to='/'>Home</Link> | <Link to='/movies'>Movies</Link>
+        <Link to='/'>Home</Link> | <Link to='/movies'>Movies</Link> | <Link to='/contact'>Contact</Link> | <Link to='/about'>About Us</Link>
       </nav>
     </header>
   );
